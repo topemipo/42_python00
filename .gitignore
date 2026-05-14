@@ -25,3 +25,4 @@ htmlcov/
 main.py
 Python Module 00.pdf
 python00.ipynb
+.gitignore
